@@ -1,0 +1,6 @@
+sqlalchemy
+requests
+python-dotenv
+passlib
+faker
+pydantic
